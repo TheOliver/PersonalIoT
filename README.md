@@ -6,3 +6,6 @@ Create your own IoT platform in few minutes
 
 # System Architecture
 ![alt text](https://github.com/TheOliver/PersonalIoT/blob/master/Architecture.tiff)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
