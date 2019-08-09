@@ -8,6 +8,12 @@ But it is better to you use linux based distribution because this tutorial conta
 
 # Global configuration
 ![Configuration](https://github.com/TheOliver/PersonalIoT/blob/master/reseau.png)
+
+MQTT is a great protocol because is multiplatform. It is using Publish/Scribe communication.
+It is well explained on this page : https://en.wikipedia.org/wiki/MQTT
+
+So any hardware, any OS and any distribution can communicate with this MQTT solution.
+
 # System Architecture
 ![Architecture](https://github.com/TheOliver/PersonalIoT/blob/master/Architecture.png)
 
