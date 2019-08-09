@@ -18,10 +18,11 @@ Covered Topics:
 # Global configuration
 ![Configuration](https://github.com/TheOliver/PersonalIoT/blob/master/reseau.png)
 
-MQTT is compatible on multiple platforms. It is using Publish/Subscribe communication.
+MQTT is compatible on multiple platforms. It is publish-subscribe-based messaging protocol.
 It is well explained on this page : https://en.wikipedia.org/wiki/MQTT
+A lot of serious companies are using this protocol for IoT applications.
 
-So any hardware, any OS and any distribution can communicate with this MQTT solution.
+Any hardware, any OS and any distribution can communicate with this MQTT solution.
 
 The technical choice that I have made is to host the MQTT broker and the database (+ its client) in the same hardware.
 All the things in the MQTT broker is red and stocked in a influxDB database and displayed with the official client: Chronograf.
