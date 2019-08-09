@@ -18,7 +18,7 @@ Covered Topics:
 # Global configuration
 ![Configuration](https://github.com/TheOliver/PersonalIoT/blob/master/reseau.png)
 
-MQTT is a great protocol because is multiplatform. It is using Publish/Subscribe communication.
+MQTT is compatible on multiple platforms. It is using Publish/Subscribe communication.
 It is well explained on this page : https://en.wikipedia.org/wiki/MQTT
 
 So any hardware, any OS and any distribution can communicate with this MQTT solution.
