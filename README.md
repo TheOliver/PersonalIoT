@@ -5,12 +5,14 @@ I am doing this main projet using raspberry pi and arduino.
 You can use any distribution for this project
 But it is better to you use linux based distribution because this tutorial contains some explanations about Systemd
 
-Summary:
-1- Presentation
-2- Installing Docker
-3 - Using DOcker
-4 - Microservices
-5 - deploy Python scripts with systemd
+Covered Topics:
+- Presentation
+- Installing Docker
+- Using DOcker
+- Microservices
+- deploy Python scripts with systemd
+- Debug
+- Advanced project Arduino <-> Raspberry
 
 
 # Global configuration
