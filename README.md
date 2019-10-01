@@ -32,6 +32,6 @@ All the things in the MQTT broker is red and stocked in a influxDB database and 
 
 I am using 3 raspberry pi.
 - The 1rst one is called ONE. It hosts the wifi using RaspAp.
-- The second one is called HOST. It hosts several docker containers that makes the system works (it is the big blue BOX in the Architecture).
+- The second one is called HOST. It hosts several docker containers that makes the system works (it is the big blue BOX in the "Global configuration").
 it hosts: influxdb, chronograf and the MQTT broker, which are all pulled from docker hub
 - The third one is called THIRD. It is connected to sensors using I2C connection with a raspberry pi
