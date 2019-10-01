@@ -67,7 +67,7 @@ docker run -it -dp 1883:1883 -- name MQTT --restart always eclipse-mosquitto
 ```
 - influxdb
 ```
-docker run -p 8086:8086 influxdb
+docker run -dp 8086:8086 --name INFLUXDB --restart always influxdb
 ```
 It is kind of usefull to use the -v argument to use your own local file configuration, but we are not going to use it.
 
@@ -78,6 +78,8 @@ The chronograf page will appear.
 Configure it with the influxdb adress using the ip of your host (ip a) http:/<localhostIPadress>:8086
 
 After that create a database named MQTT
+
+# testing Docker containers
 
 # testing MQTT
 This section is kind of important if you want test your MQtt configuration
