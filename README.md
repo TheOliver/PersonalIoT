@@ -28,7 +28,7 @@ All the things in the MQTT broker is red and stocked in a influxDB database and 
 # System Architecture
 ![Architecture](https://github.com/TheOliver/PersonalIoT/blob/master/Architecture.png)
 
-#My Architecture
+# My Architecture
 
 I am using 3 raspberry pi.
 - The 1rst one is called ONE. It hosts the wifi using RaspAp.
